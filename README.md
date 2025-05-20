@@ -13,7 +13,7 @@
     - [тесты](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tests/test_decorator.py)
 
 - Задание № 2:
-    - [код](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_2/solution.py)
+    - [код](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_2/solution.py) / [результат](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tasks/task_2/beasts.csv)
     - [тесты](https://github.com/Spike2250/test_tasks_tetrika/blob/master/tests/test_parser.py)
 
 - Задание № 3:
