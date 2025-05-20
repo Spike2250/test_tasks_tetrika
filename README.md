@@ -1,3 +1,4 @@
+[![main](https://github.com/Spike2250/test_tasks_tetrika/actions/workflows/main.yml/badge.svg)](https://github.com/Spike2250/test_tasks_tetrika/actions/workflows/main.yml)
 ## Выполнение тестового задания
 для вакансии ["Backend-Developer Python (junior)"](https://perm.hh.ru/vacancy/120575970?hhtmFrom=vacancy_search_list) в "Онлайн-школа Тетрика"
 
